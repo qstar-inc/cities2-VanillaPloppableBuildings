@@ -1,16 +1,21 @@
-# StarQ_Vanilla_Ploppable_Buildings
+<img src="https://raw.githubusercontent.com/qstar-inc/cities2-VanillaPloppableBuildings/master/Properties/Thumbnail.png" width="300"/>
+
+# StarQ Vanilla Ploppable Buildings
 
 A Cities: Skylines II mod. Available on [PDX Mods](https://mods.paradoxplaza.com/mods/79020/Windows).
-____
 
-This is the full collection package (previously 'Dependency') for all non-terrain conforming and non-functional static zoned and specialized industrial buildings.
+If you want, it is possible to use this mod without the usage of APM mods. Download the `Resources` folder, rename it to "StarQ Vanilla Ploppable Buildings" and place it on `%LocalAppData%Low/Colossal Order/Cities Skylines II/Mods` folder.
+___
 
-Currently only supports en-US l10n.
-
-Uses icon from Unified Icon Library.
+This is the full collection package for all non-terrain conforming and non-functional static zoned and specialized industrial buildings.
+- Currently only supports en-US l10n.
+- Uses icon from Unified Icon Library.
 
 ## Collection
 This 'mod' adds a "Ploppable" menu on the main toolbar, next to the "Signature Buildings".
+
+The two other packages are no longer necessary to have, all the assets from there has been migrated to this one.
+
 Inside the ploppable buildings, you will find various categories.
 | Category | Count |
 | :---: | ---: |
@@ -32,17 +37,16 @@ Inside the ploppable buildings, you will find various categories.
 | High Density Office | 36 |
 
 
-#### RESTART THE GAME (TWICE) AFTER SUBSCRIBING to any Asset Packs Manager assets
+### RESTART THE GAME (TWICE) AFTER SUBSCRIBING to any Asset Packs Manager assets
 ___
-#### ***IMPORTANT: Make sure all the dependencies are subscribed and loaded to the current playsets.***
-___
-The two other packages are no longer necessary to have, all the assets from there has been migrated to this one.
+### ***IMPORTANT: Make sure all the dependencies are subscribed and loaded to the current playsets.***
+
+## Author
+- [StarQ](https://www.github.com/qstar-inc)
 
 ## Discussion
 * [Cities: Skylines Official Discord](https://discord.com/channels/263634513861541888/1230985844261781514) ([Invitation](https://discord.gg/citiesskylines))
 * [Cities: Skylines Modding Discord](https://discord.com/channels/1024242828114673724/1230988534349959189) ([Invitation](https://discord.gg/q3dzd4p5Hx))
-
-
 
 ## DISCLAIMER
 > This mod requires [Asset Packs Manager](https://mods.paradoxplaza.com/mods/78903/Windows) which is highly experimental.
@@ -50,3 +54,12 @@ This mod shouldn't break the save game. But subscribing to assets that requires 
 Worst case you'll get error popups on game load and/or grey boxes in save.
 But either way YOU ARE RESPONSIBLE for any damage.
 Contact me on Discord and I'll try to help you recover anyway.
+
+## Screenshots
+
+![App Screenshot](https://raw.githubusercontent.com/qstar-inc/cities2-VanillaPloppableBuildings/master/Properties/Screenshots/Toolbar.jpg)
+![App Screenshot](https://raw.githubusercontent.com/qstar-inc/cities2-VanillaPloppableBuildings/master/Properties/Screenshots/Main.jpg)
+![App Screenshot](https://raw.githubusercontent.com/qstar-inc/cities2-VanillaPloppableBuildings/master/Properties/Screenshots/Missing.jpg)
+![App Screenshot](https://raw.githubusercontent.com/qstar-inc/cities2-VanillaPloppableBuildings/master/Properties/Screenshots/Hotel.jpg)
+![App Screenshot](https://raw.githubusercontent.com/qstar-inc/cities2-VanillaPloppableBuildings/master/Properties/Screenshots/Hill.jpg)
+![App Screenshot](https://raw.githubusercontent.com/qstar-inc/cities2-VanillaPloppableBuildings/master/Properties/Screenshots/Terrain.jpg)

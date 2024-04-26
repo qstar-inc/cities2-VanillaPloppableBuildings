@@ -19,10 +19,8 @@ ____
 
 
 This is the full collection package (previously 'Dependency') for all non-terrain conforming and non-functional static zoned and specialized industrial buildings.
-
-Currently only supports en-US l10n.
-
-Uses icon from Unified Icon Library.
+- Currently only supports en-US l10n.
+- Uses icon from Unified Icon Library.
 
 ## Collection
 This 'mod' adds a "Ploppable" menu on the main toolbar, next to the "Signature Buildings".
@@ -103,4 +101,5 @@ Added all remaining buildings
 	</ChangeLog>
 	<!--External link. supported types are discord, github, youtube, twitch, x, paypal, patreon-->
 	<ExternalLink Type="discord" Url="https://discord.com/channels/1024242828114673724/1230988534349959189" />
+	<ExternalLink Type="github" Url="https://github.com/qstar-inc/cities2-vanilla_ploppable_buildings" />
 </Publish>
