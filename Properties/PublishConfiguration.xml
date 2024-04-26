@@ -1,0 +1,106 @@
+﻿<Publish>
+	<!--Id must be set in order to update existed mod. it is not required for publishing mod for the first time-->
+	<ModId Value="79020" />
+	<!--Name of the mod to display to players-->
+	<DisplayName Value="Vanilla Ploppable Buildings" />
+	<!--Short description of the mod-->
+	<ShortDescription Value="Adds &quot;Ploppables&quot; menu on the toolbar, and buildings on it." />
+	<!--Long description of the mod. Single line or multi line. Supports minimal markdown subset-->
+	<!--LongDescription Value="" /-->
+	<LongDescription>
+## DISCLAIMER
+> This mod requires [Asset Packs Manager](https://mods.paradoxplaza.com/mods/78903/Windows) which is highly experimental.
+This mod shouldn't break the save game. But subscribing to assets that requires this without the dependency will pop up errors.
+Worst case you'll get error popups on game load and/or grey boxes in save.
+But either way YOU ARE RESPONSIBLE for any damage.
+Contact me on Discord and I'll try to help you recover anyway.
+
+____
+
+
+This is the full collection package (previously 'Dependency') for all non-terrain conforming and non-functional static zoned and specialized industrial buildings.
+
+Currently only supports en-US l10n.
+
+Uses icon from Unified Icon Library.
+
+## Collection
+This 'mod' adds a "Ploppable" menu on the main toolbar, next to the "Signature Buildings".
+Inside the ploppable buildings, you will find various categories.
+| Category | Count |
+----
+| Low Density Residential | 36 |
+| Waterfront Residential | 66 |
+| Residential Rowhouses | 26 |
+| Medium Density Residential | 48 |
+| Low Rent Residential | 21 |
+| High Density Residential | 72 |
+| Mixed Residential Commercial | 240 |
+| Low Density Commercial | 85 |
+| High Density Commercial | 78 |
+| Industrial Manufacturing | 63 |
+| Agricultural Industry | 36 |
+| Forestry Industry | 9 |
+| Oil Industry | 27 |
+| Ore Industry | 23 |
+| Low Density Office | 24 |
+| High Density Office | 36 |
+
+
+#### RESTART THE GAME (TWICE) AFTER SUBSCRIBING to any Asset Packs Manager assets
+___
+#### ***IMPORTANT: Make sure all the dependencies are subscribed and loaded to the current playsets.***
+___
+The two other packages are no longer necessary to have, all the assets from there has been migrated to this one.
+
+## Discussion
+* [Cities: Skylines Official Discord](https://discord.com/channels/263634513861541888/1230985844261781514) ([Invitation](https://discord.gg/citiesskylines))
+* [Cities: Skylines Modding Discord](https://discord.com/channels/1024242828114673724/1230988534349959189) ([Invitation](https://discord.gg/q3dzd4p5Hx))
+
+The in-game browser doesn't support links. Use the web version to click on the links.
+	</LongDescription>
+	<!--Thumbnail-->
+	<Thumbnail Value="Properties/Thumbnail.png" />
+	<!--Screenshot, can be set multiple times-->
+	<Screenshot Value="Properties/Screenshots/Toolbar.jpg" />
+	<Screenshot Value="Properties/Screenshots/Main.jpg" />
+	<Screenshot Value="Properties/Screenshots/Missing.jpg" />
+	<Screenshot Value="Properties/Screenshots/Hotel.jpg" />
+	<Screenshot Value="Properties/Screenshots/Hill.jpg" />
+	<Screenshot Value="Properties/Screenshots/Terrain.jpg" />
+	<!--Tag, can be set multiple times-->
+	<Tag Value="Code Mod" />
+	<!--Link to the forum post where the mod can be discussed-->
+	<ForumLink Value="" />
+	<!--Version of the mod-->
+	<ModVersion Value="2.1.0" />
+	<!--Recommended version of the base game to use the mod-->
+	<GameVersion Value="*" />
+	<!--Dependency for the mod, can be set multiple times-->
+	<Dependency Id="74417" /> <!-- Unified Icon Library -->
+	<Dependency Id="75426" /> <!-- I18n EveryWhere -->
+	<Dependency Id="78903" /> <!-- Asset Packs Manager -->
+	<!--Change log for new version. Single line or multi line. Supports minimal markdown subset-->
+	<ChangeLog Value="-" />
+	<ChangeLog>
+Added all remaining buildings
+* Low Density Residential (36 out of 36)
+* Waterfront Residential (66 out of 66)
+* Residential Rowhouses (26 out of 26)
+* Medium Density Residential (48 out of 48)
+* Low Rent Residential (21 out of 21)
+* High Density Residential (72 out of 72)
+* Mixed Residential Commercial (240 out of 240)
+* Low Density Commercial (85 out of 85)
+* High Density Commercial (78 out of 78)
+* Industrial Manufacturing (63 out of 63)
+* Agricultural Industry (36 out of 36)
+* Forestry Industry (9 out of 9)
+* Oil Industry (27 out of 27)
+* Ore Industry (23 out of 23)
+* Low Density Office (24 out of 24)
+* High Density Office (36 out of 36)
+	</ChangeLog>
+	<!--External link. supported types are discord, github, youtube, twitch, x, paypal, patreon-->
+	<ExternalLink Type="discord" Url="https://discord.com/channels/1024242828114673724/1230988534349959189" />
+</Publish>
