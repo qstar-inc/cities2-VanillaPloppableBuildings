@@ -10,9 +10,9 @@
 	<LongDescription>
 ## DISCLAIMER
 > This mod requires [Asset Packs Manager](https://mods.paradoxplaza.com/mods/78903/Windows) which is highly experimental.
-This mod shouldn't break the save game. But subscribing to assets that requires this without the dependency will pop up errors.
+This mod shouldn't break the save game. But subscribing to assets that require this without the dependency will pop up errors.
 Worst case you'll get error popups on game load and/or grey boxes in save.
-But either way YOU ARE RESPONSIBLE for any damage.
+But either way, YOU ARE RESPONSIBLE for any damage.
 Contact me on Discord and I'll try to help you recover anyway.
 
 ____
@@ -24,32 +24,31 @@ This is the full collection package (previously 'Dependency') for all non-terrai
 
 ## Collection
 This 'mod' adds a "Ploppable" menu on the main toolbar, next to the "Signature Buildings".
-Inside the ploppable buildings, you will find various categories.
-| Category | Count |
-| :---: | ---: |
-| Low Density Residential | 36 |
-| Waterfront Residential | 66 |
-| Residential Rowhouses | 26 |
-| Medium Density Residential | 48 |
-| Low Rent Residential | 21 |
-| High Density Residential | 72 |
-| Mixed Residential Commercial | 240 |
-| Low Density Commercial | 85 |
-| High Density Commercial | 78 |
-| Industrial Manufacturing | 63 |
-| Agricultural Industry | 36 |
-| Forestry Industry | 9 |
-| Oil Industry | 27 |
-| Ore Industry | 23 |
-| Low Density Office | 24 |
-| High Density Office | 36 |
+Inside the ploppable buildings, you will find various categories which consists of Spawnable buildings, **Mixed Residential Commercial Storefonts**, Signature buildings, Specialized Industry buildings and Specialized Industry spawnables.
+* Low Density Residential (36)
+* Waterfront Residential (66)
+* Residential Rowhouses (26)
+* Medium Density Residential (48)
+* Low Rent Residential (21)
+* High Density Residential (72)
+* Mixed Residential Commercial (240)
+* Low Density Commercial (85)
+* High Density Commercial (78)
+* Industrial Manufacturing (63)
+* Agricultural Industry (36)
+* Forestry Industry (9)
+* Oil Industry (27)
+* Ore Industry (23)
+* Low Density Office (24)
+* High Density Office (36)
+
 
 
 #### RESTART THE GAME (TWICE) AFTER SUBSCRIBING to any Asset Packs Manager assets
 ___
 #### ***IMPORTANT: Make sure all the dependencies are subscribed and loaded to the current playsets.***
 ___
-The two other packages are no longer necessary to have, all the assets from there has been migrated to this one.
+The two other packages are no longer necessary to have, all the assets from there have been migrated to this one.
 
 ## Discussion
 * [Cities: Skylines Official Discord](https://discord.com/channels/263634513861541888/1230985844261781514) ([Invitation](https://discord.gg/citiesskylines))
@@ -71,7 +70,7 @@ The in-game browser doesn't support links. Use the web version to click on the l
 	<!--Link to the forum post where the mod can be discussed-->
 	<ForumLink Value="" />
 	<!--Version of the mod-->
-	<ModVersion Value="2.1.0" />
+	<ModVersion Value="2.1.1" />
 	<!--Recommended version of the base game to use the mod-->
 	<GameVersion Value="*" />
 	<!--Dependency for the mod, can be set multiple times-->
@@ -101,5 +100,8 @@ Added all remaining buildings
 	</ChangeLog>
 	<!--External link. supported types are discord, github, youtube, twitch, x, paypal, patreon-->
 	<ExternalLink Type="discord" Url="https://discord.com/channels/1024242828114673724/1230988534349959189" />
-	<ExternalLink Type="github" Url="https://github.com/qstar-inc/cities2-vanilla_ploppable_buildings" />
+	<ExternalLink Type="github" Url="https://github.com/qstar-inc/cities2-VanillaPloppableBuildings" />
 </Publish>
+
+
+
