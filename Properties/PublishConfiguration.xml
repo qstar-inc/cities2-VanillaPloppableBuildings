@@ -60,12 +60,12 @@ The in-game browser doesn't support links. Use the web version to click on the l
 	<!--Thumbnail-->
 	<Thumbnail Value="Properties/Thumbnail.png" />
 	<!--Screenshot, can be set multiple times-->
-	<Screenshot Value="Properties/Screenshots/Toolbar.jpg" />
-	<Screenshot Value="Properties/Screenshots/Main.jpg" />
-	<Screenshot Value="Properties/Screenshots/Missing.jpg" />
-	<Screenshot Value="Properties/Screenshots/Hotel.jpg" />
-	<Screenshot Value="Properties/Screenshots/Hill.jpg" />
-	<Screenshot Value="Properties/Screenshots/Terrain.jpg" />
+	<Screenshot Value="Properties/Screenshots/01_Toolbar.jpg" />
+	<Screenshot Value="Properties/Screenshots/02_Main.jpg" />
+	<Screenshot Value="Properties/Screenshots/03_Missing.jpg" />
+	<Screenshot Value="Properties/Screenshots/04_Hotel.jpg" />
+	<Screenshot Value="Properties/Screenshots/05_Hill.jpg" />
+	<Screenshot Value="Properties/Screenshots/06_Terrain.jpg" />
 	<!--Tag, can be set multiple times-->
 	<Tag Value="Code Mod" />
 	<!--Link to the forum post where the mod can be discussed-->
