@@ -15,7 +15,7 @@
                 "active": true,
                 "m_Group": $fstrref:"CID:dc18db2349526e04094392e72a01ae89",
                 "m_Priority": 102123,
-                "m_Icon": "Media/Game/Icons/ZoneEUResidentialLowWaterfront.svg",
+                "m_Icon": "coui://ail/EU_ResidentialLowWaterfront02_L3_3x4.png",
                 "m_LargeIcon": "",
                 "m_IsDebugObject": false
             },
@@ -30,8 +30,8 @@
                     "$rlength": 3,
                     "$rcontent": [
                         "StarQ",
-                        "StarQ/Vanilla Ploppables",
-                        "StarQ/Vanilla Ploppables/EU Residential Low Waterfront"
+                        "StarQ/Vanilla Ploppables Zoned",
+                        "StarQ/Vanilla Ploppables Zoned/EU Residential Low Waterfront"
                     ]
                 },
                 "m_ExcludeCategories": {

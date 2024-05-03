@@ -9,7 +9,7 @@ ___
 
 This is the full collection package for all non-terrain conforming and non-functional static zoned and specialized industrial buildings.
 - Currently only supports en-US l10n.
-- Uses icon from Unified Icon Library.
+- Uses icon from Unified Icon Library and Asset Icon Library.
 
 ## Collection
 This 'mod' adds a "Ploppable" menu on the main toolbar, next to the "Signature Buildings".
@@ -36,8 +36,6 @@ Inside the ploppable buildings, you will find various categories.
 | Low Density Office | 24 |
 | High Density Office | 36 |
 
-
-### RESTART THE GAME (TWICE) AFTER SUBSCRIBING to any Asset Packs Manager assets
 ___
 ### ***IMPORTANT: Make sure all the dependencies are subscribed and loaded to the current playsets.***
 

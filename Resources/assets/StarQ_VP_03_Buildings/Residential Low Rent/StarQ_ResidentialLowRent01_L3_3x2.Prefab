@@ -15,7 +15,7 @@
                 "active": true,
                 "m_Group": $fstrref:"CID:092fe51e30757be45471fd1f7ff2cd5e",
                 "m_Priority": 105108,
-                "m_Icon": "Media/Game/Icons/ZoneResidentialLowRent.svg",
+                "m_Icon": "coui://ail/ResidentialLowRent01_L3_3x2.png",
                 "m_LargeIcon": "",
                 "m_IsDebugObject": false
             },
@@ -30,8 +30,8 @@
                     "$rlength": 3,
                     "$rcontent": [
                         "StarQ",
-                        "StarQ/Vanilla Ploppables",
-                        "StarQ/Vanilla Ploppables/Residential Low Rent"
+                        "StarQ/Vanilla Ploppables Zoned",
+                        "StarQ/Vanilla Ploppables Zoned/Residential Low Rent"
                     ]
                 },
                 "m_ExcludeCategories": {

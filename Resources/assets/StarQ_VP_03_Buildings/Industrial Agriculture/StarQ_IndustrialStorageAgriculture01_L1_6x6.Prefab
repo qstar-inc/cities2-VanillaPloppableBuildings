@@ -15,7 +15,7 @@
                 "active": true,
                 "m_Group": $fstrref:"CID:2244b6be1ea4c37ec6792e59606bc124",
                 "m_Priority": 111213,
-                "m_Icon": "Media/Game/Icons/ZoneAgricultureArea.svg",
+                "m_Icon": "coui://ail/IndustrialStorageAgriculture01_L1_6x6.png",
                 "m_LargeIcon": "",
                 "m_IsDebugObject": false
             },
@@ -30,8 +30,8 @@
                     "$rlength": 3,
                     "$rcontent": [
                         "StarQ",
-                        "StarQ/Vanilla Ploppables",
-                        "StarQ/Vanilla Ploppables/Industrial Agriculture"
+                        "StarQ/Vanilla Ploppables Zoned",
+                        "StarQ/Vanilla Ploppables Zoned/Industrial Agriculture"
                     ]
                 },
                 "m_ExcludeCategories": {

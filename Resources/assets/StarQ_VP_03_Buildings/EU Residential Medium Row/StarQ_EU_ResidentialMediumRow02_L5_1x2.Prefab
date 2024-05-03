@@ -15,7 +15,7 @@
                 "active": true,
                 "m_Group": $fstrref:"CID:a76942ae76f1db8c8f075aae8fc51588",
                 "m_Priority": 103104,
-                "m_Icon": "Media/Game/Icons/ZoneResidentialMediumRow.svg",
+                "m_Icon": "coui://ail/EU_ResidentialMediumRow02_L5_1x2.png",
                 "m_LargeIcon": "",
                 "m_IsDebugObject": false
             },
@@ -30,8 +30,8 @@
                     "$rlength": 3,
                     "$rcontent": [
                         "StarQ",
-                        "StarQ/Vanilla Ploppables",
-                        "StarQ/Vanilla Ploppables/EU Residential Medium Row"
+                        "StarQ/Vanilla Ploppables Zoned",
+                        "StarQ/Vanilla Ploppables Zoned/EU Residential Medium Row"
                     ]
                 },
                 "m_ExcludeCategories": {

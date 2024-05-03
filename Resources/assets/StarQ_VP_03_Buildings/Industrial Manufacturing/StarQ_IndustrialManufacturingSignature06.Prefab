@@ -15,7 +15,7 @@
                 "active": true,
                 "m_Group": $fstrref:"CID:ce3228a76da9c346b4c5762f159e8eeb",
                 "m_Priority": 110306,
-                "m_Icon": "Media/Game/Icons/ZoneSignature.svg",
+                "m_Icon": "coui://ail/IndustrialManufacturingSignature06.png",
                 "m_LargeIcon": "",
                 "m_IsDebugObject": false
             },
@@ -30,8 +30,8 @@
                     "$rlength": 3,
                     "$rcontent": [
                         "StarQ",
-                        "StarQ/Vanilla Ploppables",
-                        "StarQ/Vanilla Ploppables/Industrial Manufacturing"
+                        "StarQ/Vanilla Ploppables Zoned",
+                        "StarQ/Vanilla Ploppables Zoned/Industrial Manufacturing"
                     ]
                 },
                 "m_ExcludeCategories": {

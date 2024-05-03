@@ -15,7 +15,7 @@
                 "active": true,
                 "m_Group": $fstrref:"CID:075b4d5f7057d43a4d8a311c6a938eee",
                 "m_Priority": 113106,
-                "m_Icon": "Media/Game/Icons/ZoneExtractors.svg",
+                "m_Icon": "coui://ail/IndustrialOilHub02_L5.png",
                 "m_LargeIcon": "",
                 "m_IsDebugObject": false
             },
@@ -30,8 +30,8 @@
                     "$rlength": 3,
                     "$rcontent": [
                         "StarQ",
-                        "StarQ/Vanilla Ploppables",
-                        "StarQ/Vanilla Ploppables/Industrial Oil"
+                        "StarQ/Vanilla Ploppables Zoned",
+                        "StarQ/Vanilla Ploppables Zoned/Industrial Oil"
                     ]
                 },
                 "m_ExcludeCategories": {

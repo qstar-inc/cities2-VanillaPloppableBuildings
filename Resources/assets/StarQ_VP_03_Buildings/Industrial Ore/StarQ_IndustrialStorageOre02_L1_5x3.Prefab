@@ -15,7 +15,7 @@
                 "active": true,
                 "m_Group": $fstrref:"CID:aadac4d3b2a52552a836c89398762e2a",
                 "m_Priority": 114212,
-                "m_Icon": "Media/Game/Icons/ZoneOreArea.svg",
+                "m_Icon": "coui://ail/IndustrialStorageOre02_L1_5x3.png",
                 "m_LargeIcon": "",
                 "m_IsDebugObject": false
             },
@@ -30,8 +30,8 @@
                     "$rlength": 3,
                     "$rcontent": [
                         "StarQ",
-                        "StarQ/Vanilla Ploppables",
-                        "StarQ/Vanilla Ploppables/Industrial Ore"
+                        "StarQ/Vanilla Ploppables Zoned",
+                        "StarQ/Vanilla Ploppables Zoned/Industrial Ore"
                     ]
                 },
                 "m_ExcludeCategories": {

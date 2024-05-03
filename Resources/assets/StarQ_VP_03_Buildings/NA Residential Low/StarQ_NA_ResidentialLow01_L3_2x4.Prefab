@@ -15,7 +15,7 @@
                 "active": true,
                 "m_Group": $fstrref:"CID:5e2288e63f4a27b425cc067ac8287337",
                 "m_Priority": 101205,
-                "m_Icon": "Media/Game/Icons/ZoneNAResidentialLow.svg",
+                "m_Icon": "coui://ail/NA_ResidentialLow01_L3_2x4.png",
                 "m_LargeIcon": "",
                 "m_IsDebugObject": false
             },
@@ -30,8 +30,8 @@
                     "$rlength": 3,
                     "$rcontent": [
                         "StarQ",
-                        "StarQ/Vanilla Ploppables",
-                        "StarQ/Vanilla Ploppables/NA Residential Low"
+                        "StarQ/Vanilla Ploppables Zoned",
+                        "StarQ/Vanilla Ploppables Zoned/NA Residential Low"
                     ]
                 },
                 "m_ExcludeCategories": {

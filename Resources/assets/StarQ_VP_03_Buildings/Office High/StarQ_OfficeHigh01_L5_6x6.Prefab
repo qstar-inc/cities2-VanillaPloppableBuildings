@@ -15,7 +15,7 @@
                 "active": true,
                 "m_Group": $fstrref:"CID:6bb4244824a5be76b173c513c6078fc8",
                 "m_Priority": 116133,
-                "m_Icon": "Media/Game/Icons/ZoneOfficeHigh.svg",
+                "m_Icon": "coui://ail/OfficeHigh01_L5_6x6.png",
                 "m_LargeIcon": "",
                 "m_IsDebugObject": false
             },
@@ -30,8 +30,8 @@
                     "$rlength": 3,
                     "$rcontent": [
                         "StarQ",
-                        "StarQ/Vanilla Ploppables",
-                        "StarQ/Vanilla Ploppables/Office High"
+                        "StarQ/Vanilla Ploppables Zoned",
+                        "StarQ/Vanilla Ploppables Zoned/Office High"
                     ]
                 },
                 "m_ExcludeCategories": {

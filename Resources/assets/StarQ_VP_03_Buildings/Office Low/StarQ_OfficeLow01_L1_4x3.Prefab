@@ -15,7 +15,7 @@
                 "active": true,
                 "m_Group": $fstrref:"CID:c952bc6d4a78ee103e275463454e8ffb",
                 "m_Priority": 115113,
-                "m_Icon": "Media/Game/Icons/ZoneOfficeLow.svg",
+                "m_Icon": "coui://ail/OfficeLow01_L1_4x3.png",
                 "m_LargeIcon": "",
                 "m_IsDebugObject": false
             },
@@ -30,8 +30,8 @@
                     "$rlength": 3,
                     "$rcontent": [
                         "StarQ",
-                        "StarQ/Vanilla Ploppables",
-                        "StarQ/Vanilla Ploppables/Office Low"
+                        "StarQ/Vanilla Ploppables Zoned",
+                        "StarQ/Vanilla Ploppables Zoned/Office Low"
                     ]
                 },
                 "m_ExcludeCategories": {
