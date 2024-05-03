@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/qstar-inc/cities2-VanillaPloppableBuildings/master/Properties/Thumbnail.png" width="300"/>
+<img src="https://raw.githubusercontent.com/qstar-inc/cities2-VanillaPloppablesZonedBuildings/master/Properties/Thumbnail.png" width="300"/>
 
-# StarQ Vanilla Ploppable Buildings
+# Vanilla Ploppables Zoned Buildings
 
 A Cities: Skylines II mod. Available on [PDX Mods](https://mods.paradoxplaza.com/mods/79020/Windows).
 
@@ -55,9 +55,9 @@ Contact me on Discord and I'll try to help you recover anyway.
 
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/qstar-inc/cities2-VanillaPloppableBuildings/master/Properties/Screenshots/Toolbar.jpg)
-![App Screenshot](https://raw.githubusercontent.com/qstar-inc/cities2-VanillaPloppableBuildings/master/Properties/Screenshots/Main.jpg)
-![App Screenshot](https://raw.githubusercontent.com/qstar-inc/cities2-VanillaPloppableBuildings/master/Properties/Screenshots/Missing.jpg)
-![App Screenshot](https://raw.githubusercontent.com/qstar-inc/cities2-VanillaPloppableBuildings/master/Properties/Screenshots/Hotel.jpg)
-![App Screenshot](https://raw.githubusercontent.com/qstar-inc/cities2-VanillaPloppableBuildings/master/Properties/Screenshots/Hill.jpg)
-![App Screenshot](https://raw.githubusercontent.com/qstar-inc/cities2-VanillaPloppableBuildings/master/Properties/Screenshots/Terrain.jpg)
+![App Screenshot](https://raw.githubusercontent.com/qstar-inc/cities2-VanillaPloppablesZonedBuildings/master/Properties/Screenshots/01_Toolbar.jpg)
+![App Screenshot](https://raw.githubusercontent.com/qstar-inc/cities2-VanillaPloppablesZonedBuildings/master/Properties/Screenshots/02_Main.jpg)
+![App Screenshot](https://raw.githubusercontent.com/qstar-inc/cities2-VanillaPloppablesZonedBuildings/master/Properties/Screenshots/03_Missing.jpg)
+![App Screenshot](https://raw.githubusercontent.com/qstar-inc/cities2-VanillaPloppablesZonedBuildings/master/Properties/Screenshots/04_Hotel.jpg)
+![App Screenshot](https://raw.githubusercontent.com/qstar-inc/cities2-VanillaPloppablesZonedBuildings/master/Properties/Screenshots/05_Hill.jpg)
+![App Screenshot](https://raw.githubusercontent.com/qstar-inc/cities2-VanillaPloppablesZonedBuildings/master/Properties/Screenshots/06_Terrain.jpg)
