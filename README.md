@@ -4,7 +4,7 @@
 
 A Cities: Skylines II mod. Available on [PDX Mods](https://mods.paradoxplaza.com/mods/79020/Windows).
 
-If you want, it is possible to use this mod without the usage of APM mods. Download the `Resources` folder, rename it to "StarQ Vanilla Ploppable Buildings" and place it on `%LocalAppData%Low/Colossal Order/Cities Skylines II/Mods` folder.
+If you want, it is possible to use this mod without the usage of APM mods. Download the `Resources` folder, rename it to "Vanilla Ploppable Zoned Buildings" and place it on `%LocalAppData%Low/Colossal Order/Cities Skylines II/Mods` folder.
 ___
 
 This is the full collection package for all non-terrain conforming and non-functional static zoned and specialized industrial buildings.
@@ -12,9 +12,7 @@ This is the full collection package for all non-terrain conforming and non-funct
 - Uses icon from Unified Icon Library and Asset Icon Library.
 
 ## Collection
-This 'mod' adds a "Ploppable" menu on the main toolbar, next to the "Signature Buildings".
-
-The two other packages are no longer necessary to have, all the assets from there has been migrated to this one.
+This 'mod' adds a "Ploppable Zoned" menu on the main toolbar, next to the "Signature Buildings".
 
 Inside the ploppable buildings, you will find various categories.
 | Category | Count |
